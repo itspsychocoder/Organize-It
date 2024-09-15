@@ -1,4 +1,5 @@
 # Organize It
+An intelligent document management platform that allows users to effortlessly organize, secure and share their important documents in customizable folders.
 
 ## Features
 - [x] Authentication
